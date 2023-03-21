@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84784eba-aaf0-4b60-8856-c81d22086fad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Threads01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads01/.idea/Thread.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads01/out/production/Thread/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads01/out/production/Thread/.idea/Thread.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads01/out/production/Thread/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads01/out/production/Thread/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads01/out/production/Thread/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads01/out/production/Thread/MainThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Threads02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads02/.idea/Threads02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads02/MultiplaThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads02/MultiplaThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads02/Principal.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NLOMLu9724RzWFmlrM3us7GXPB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/bruno/Development/facul/java/osmar/Thread/Threads02"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84784eba-aaf0-4b60-8856-c81d22086fad" name="Changes" comment="" />
+      <created>1679439846978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679439846978</updated>
+    </task>
+    <servers />
+  </component>
+</project>
